@@ -18,7 +18,7 @@ The icon of "regression" resets the program and simulator to initial values. Mem
 And for see step by step program you can use the play icon o the regression icon with a 1 subscript.
 
 
-![Mars Page](/Users/ximenalezama/Desktop/GitHub/Assambly/1stCapture.png)
+![Mars Page](1stCapture.png)
 
 
 
@@ -93,7 +93,7 @@ El icono de "regresión" restablece el programa y el simulador a los valores ini
 Y para ver el programa paso a paso, puede usar el icono de reproducción o el ícono de regresión con un subíndice 1.
 
 
-![Mars](/Users/ximenalezama/Desktop/GitHub/Assambly/1stCapture.png)
+![Mars](1stCapture.png)
 
 
 
