@@ -1,3 +1,4 @@
+### Como simular execpciones en asm ###	
 	.text
 	div 	$t0,$t0,$t0
 	li $t0, 0x7FFFFFFF
