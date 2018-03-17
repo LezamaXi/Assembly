@@ -1,12 +1,7 @@
-### Saca la reversa de una cadena ###		
+### Saca la reversa de una cadena que tu le proporciones ###		
 		.data
 cadena: 	.asciiz "Introduzca una cadena: \n"
 buffer: 	.space 1024
-suma:	.asciiz 	"+"
-resta:	.asciiz 	"-"
-div:	.asciiz 	"/"
-mult:	.asciiz 	"*"
-resul:	.float 		0.0
 reversa: 	.asciiz "La cadena invertida es: "
 		.text
 main:
