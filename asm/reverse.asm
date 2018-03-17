@@ -1,3 +1,4 @@
+### Saca la reversa de una cadena ###		
 		.data
 cadena: 	.asciiz "Introduzca una cadena: \n"
 buffer: 	.space 1024
