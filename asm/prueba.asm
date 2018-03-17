@@ -1,8 +1,13 @@
+## Este programa crea un menu para concatenar o para sacar la reversa de un numero ##
+## Empieza preguntando ¿Qué deseas hacer? puedes poner "cat" si quieres concatenar dos cadenas, ##
+## rev para sacar la reversa de una cadena, o en su defecto help para que te imprima la informacion ##
+## de cada operacion ##
+		
 		.data
 buffer:		.space		1024
 buffer2:    	.space      	1024             # buffer de cad2 
 buffer3:    	.space      	1024             # buffer de la concatenación
-promptw: 	.asciiz 	"\n$ Introduce un comando valido: "
+promptw: 	.asciiz 	"\n$ ¿Qué deseas hacer? Introduce un comando valido o help: "
 tucoma:		.asciiz		"Tu comando es: "
 helpw:		.asciiz		"help\n"
 helphelpw:	.asciiz		"help help\n"
