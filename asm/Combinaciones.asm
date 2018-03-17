@@ -1,3 +1,4 @@
+### Este programa calcula las combinaciones de n en k  ####		
 		.data
 n:		.word		10		
 k:		.word		5		
