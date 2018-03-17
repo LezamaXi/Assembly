@@ -35,13 +35,13 @@ If you what to comment your code you must enter your text between a pound sign (
 
 To start you must know asm have the following directives.
 
--.data – it indicates the beginning of the declaration of global data.
+  .data – it indicates the beginning of the declaration of global data.
 
--.asciiz – gives the variable 'text' the string that follows it plus a terminator character.
+  .asciiz – gives the variable 'text' the string that follows it plus a terminator character.
 
--.text – indicates the start of the code.
+  .text – indicates the start of the code.
 
--.globl – convert the main label to global.
+  .globl – convert the main label to global.
 
 Then let see how is a Hello Word program in ASM. 
 
@@ -109,13 +109,13 @@ Si quieres comentar tu código debes ingresar tu texto entre un signo de libra (
 
 To start you must know asm have the following directives.
 
--.data – nos indica el inicio de la declaración de datos globales.
+.data – nos indica el inicio de la declaración de datos globales.
 
--.asciiz – da a la variable ‘texto’ la cadena que le sigue más un carácter terminador.
+.asciiz – da a la variable ‘texto’ la cadena que le sigue más un carácter terminador.
 
--.text – indica el inicio del código.
+.text – indica el inicio del código.
 
--.globl – convierte la etiqueta main en global.
+.globl – convierte la etiqueta main en global.
 
 
 Ahora veamos como es un programa en ASM con MARS
